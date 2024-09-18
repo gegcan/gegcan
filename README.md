@@ -1,16 +1,27 @@
-## Hi there 👋
+## Skills
 
-<!--
-**gegcan/gegcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Patterns: `MVC`, `MVP`, `MVVM`
 
-Here are some ideas to get you started:
+Git: `git console`, `GitHub`, `Sourcetree`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UI: `InterfaceBuilder`, `AutoLayout`, `code layout`, `dark mode`, `localization` (for right-to-left languages too)
+
+UIKit: `UITableView`, `UICollectionView`, `UIScrollView`, `UIPageController`
+
+AppKit: `NSWindowsController`, `NSViewController`, `UserDefaults`, `ScreenSaverDefaults`
+
+API: `URLRequest`, `URLSession`, `JSON`, `imdb API`, `unsplash API`
+
+Data: `CoreData`, `UserDefaults`, `Keychain`
+
+Access: `OAuth 2.0`
+
+Code style: `SwiftLint`, `Kodeco`
+
+SPM, CocoaPods: `Kingfisher`, `KeychainWrapper`, `ProgressHUD`
+
+Tests: `Unit-test`, `UI-test`, `snapshot-test`
+
+Analytics: `Yandex.Metrica`
+
+Tools: `Figma`, `Charles`, `Postman`, `Notion`, `GitHub Project`, `Jira`
