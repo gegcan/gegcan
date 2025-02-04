@@ -1,27 +1,23 @@
+# Hello everyone, It's Aleksandr
+
+He was always fond of computers and working with them. I like to program and create useful applications.
+
 ## Skills
 
 Patterns: `MVC`, `MVP`, `MVVM`
 
-Git: `git console`, `GitHub`, `Sourcetree`
+Git: `GitHub`, `Sourcetree`
 
-UI: `InterfaceBuilder`, `AutoLayout`, `code layout`, `dark mode`, `localization` (for right-to-left languages too)
+UI: `InterfaceBuilder`, `AutoLayout`, `localization`
 
-UIKit: `UITableView`, `UICollectionView`, `UIScrollView`, `UIPageController`
+UIKit: `UITableView`, `UICollectionView`
 
-AppKit: `NSWindowsController`, `NSViewController`, `UserDefaults`, `ScreenSaverDefaults`
-
-API: `URLRequest`, `URLSession`, `JSON`, `imdb API`, `unsplash API`
+API: `URLSession`, `JSON`
 
 Data: `CoreData`, `UserDefaults`, `Keychain`
-
-Access: `OAuth 2.0`
-
-Code style: `SwiftLint`, `Kodeco`
 
 SPM, CocoaPods: `Kingfisher`, `KeychainWrapper`, `ProgressHUD`
 
 Tests: `Unit-test`, `UI-test`, `snapshot-test`
 
-Analytics: `Yandex.Metrica`
-
-Tools: `Figma`, `Charles`, `Postman`, `Notion`, `GitHub Project`, `Jira`
+Tools: `Figma`, `Postman`
